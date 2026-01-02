@@ -1,6 +1,6 @@
 {
   "name": "tense-playground",
-  "description": "Master English tenses through interactive games, quizzes, and exercises. Learn past, present, and future tenses with fun grammar challenges. Free English learning tool for students and learners.",
+  "description": "Free AI-powered platform to master English tenses through interactive games, quizzes, and AI assistance.",
   "version": "0.1.0",
   "private": true,
   "scripts": {
