@@ -84,7 +84,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
 - **UI Components**: shadcn/ui
-- **AI**: Google Gemini AI (gemini-2.5-flash)
+- **AI**: Google Gemini AI (gemini-3.5-flash-lite)
 - **State Management**: React Context + Hooks
 - **Storage**: localStorage for progress persistence
 - **Analytics**: Vercel Analytics

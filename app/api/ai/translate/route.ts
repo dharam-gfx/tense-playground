@@ -60,7 +60,7 @@ Respond with ONLY the JSON object, no additional text.`;
     const ai = new GoogleGenAI({});
 
     const response = await ai.models.generateContent({
-      model: "gemini-2.5-flash",
+      model: "gemini-3.5-flash-lite",
       contents: prompt,
       config: {
         systemInstruction: SYSTEM_PROMPT,
